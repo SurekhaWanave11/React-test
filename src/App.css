@@ -1,0 +1,11 @@
+.App{
+  width:80%;
+  box-sizing: border-box;
+  
+}
+.photoList{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px; 
+}

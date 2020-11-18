@@ -1,0 +1,18 @@
+
+.card-container{
+  
+}
+.Card{
+    width:90%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.CardBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
